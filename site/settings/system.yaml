@@ -1,0 +1,7 @@
+app_key: msCfI6NKyNEmtJprJKWq3qM3xmzkcxQn
+locales:
+  en:
+    full: en_US
+    name: English
+    url: http://localhost:32790/
+timezone: UTC

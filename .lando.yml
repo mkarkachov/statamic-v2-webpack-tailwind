@@ -1,0 +1,7 @@
+name: salus-family-portal
+recipe: lamp
+config:
+  php: '7.3'
+  webroot: .
+  database: mysql:5.7
+  xdebug: true
