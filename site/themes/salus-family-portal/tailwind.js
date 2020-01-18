@@ -6,16 +6,9 @@ module.exports = {
     colors: {
       transparent: 'transparent',
       theme: '#b29251',
-      black: '#000',
-      white: '#fff',
-      title: '#111',
-      sand: '#f4efe5',
       gray: {
         "text": "#555",
         "999": "#999",
-        "666": "#666",
-        "ddd": "#ddd",
-        "333": "#333"
       },
     },
 
@@ -103,9 +96,7 @@ module.exports = {
     },
     fontWeight: {
       normal: '400',
-      light: '300',
       bold: '700',
-      black: '900',
     },
     lineHeight: {
       none: '1',
